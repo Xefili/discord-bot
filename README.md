@@ -19,3 +19,5 @@ Pings the message author with `<message.author>.mention`
 ## Random Number Generator
 ![fourth step](https://user-images.githubusercontent.com/71967547/134773737-6f6c5e79-e6fd-49ea-be2c-70be4e069104.png)
 Returns a random number between a and b.
+![fifth step](https://user-images.githubusercontent.com/71967547/134780162-09fd3cd8-20e5-4121-a831-ff805d523434.png)
+Mention textchannel and user, deleting original message.
