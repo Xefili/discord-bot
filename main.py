@@ -2,6 +2,7 @@ import os
 import random
 
 import discord
+from discord.errors import Forbidden
 from discord.ext import commands
 
 TOKEN = os.getenv('TOKEN') # Fetch token from .env
@@ -26,5 +27,10 @@ async def randomnumbergen(ctx, a, b): # Define command randomnumbergen
     a = int(a) # Define a as integer
     b = int(b) # Define b as integer
     await ctx.reply(random.randint(a, b), mention_author=False) # reply with a random number between a and b
+
+@client.command(aliases=['txt'])
+async def text(ctx, user : discord.Member ,chn : discord.TextChannel): # Define command text
+    await ctx.message.delete() # delete original message
+    await ctx.send(f'{user.mention} Refer to {chn.mention}!') # send message with the user and textchannel mentioned
 
 client.run(TOKEN) # run client with token
