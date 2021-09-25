@@ -13,3 +13,6 @@ This is the framework that we will be using to programm our bot.
 ## Second Step
 ![second step](https://user-images.githubusercontent.com/71967547/134768629-ce0dc4c3-ecf4-4524-93d2-556b5e3f9532.png)
 Created a simple hello command.
+## Ping command
+![third step](https://user-images.githubusercontent.com/71967547/134768996-77d2f7e6-c21e-4b38-bfb4-bca4b78c850d.png)
+Pings the message author with `<message.author>.mention`
