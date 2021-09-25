@@ -16,3 +16,6 @@ Created a simple hello command.
 ## Ping command
 ![third step](https://user-images.githubusercontent.com/71967547/134768996-77d2f7e6-c21e-4b38-bfb4-bca4b78c850d.png)
 Pings the message author with `<message.author>.mention`
+## Random Number Generator
+![fourth step](https://user-images.githubusercontent.com/71967547/134773737-6f6c5e79-e6fd-49ea-be2c-70be4e069104.png)
+Returns a random number between a and b.
