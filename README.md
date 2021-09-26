@@ -6,15 +6,14 @@
 + a Discord account
 
 **I recommend using [Visual Studio Code](https://code.visualstudio.com/) for this project.**
-## First Step
-
-![First Step](https://user-images.githubusercontent.com/71967547/134768341-4c51025f-73df-4fd7-a9dc-a0607e9c82f6.png)
+## Let's start!
+![again](https://user-images.githubusercontent.com/71967547/134800460-12f57149-8bf6-432f-8f57-285523b6014b.png)
 This is the framework that we will be using to programm our bot.
 ## Second Step
-![second step](https://user-images.githubusercontent.com/71967547/134768629-ce0dc4c3-ecf4-4524-93d2-556b5e3f9532.png)
+![ssssec](https://user-images.githubusercontent.com/71967547/134800560-fa3012b8-1f4a-416e-8f18-eb79441a29da.png)
 Created a simple hello command.
 ## Ping command
-![third step](https://user-images.githubusercontent.com/71967547/134768996-77d2f7e6-c21e-4b38-bfb4-bca4b78c850d.png)
+![sheesh](https://user-images.githubusercontent.com/71967547/134800742-eb89d277-0be7-4b36-ba7a-c229f173cf47.png)
 Pings the message author with `<message.author>.mention`
 ## Random Number Generator
 ![fourth step](https://user-images.githubusercontent.com/71967547/134773737-6f6c5e79-e6fd-49ea-be2c-70be4e069104.png)
